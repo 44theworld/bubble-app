@@ -1,0 +1,7 @@
+.moving-component {
+    font-size: 5rem;
+    font-weight: bold;
+    color: aliceblue;
+    display: inline-block;
+    transform-origin: top left;
+  }
